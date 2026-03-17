@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2026-03-12T14:51:26.635Z",
+    "type": "command",
+    "userId": "1302229096570552380",
+    "username": "nader_kanaan",
+    "commandName": "leaderboard",
+    "guildId": "1310958768191705150",
+    "guildName": "Pro Ppl"
+  },
+  {
+    "timestamp": "2026-03-12T15:48:33.037Z",
+    "type": "command",
+    "userId": "1302229096570552380",
+    "username": "nader_kanaan",
+    "commandName": "appeal",
+    "guildId": "1310958768191705150",
+    "guildName": "Pro Ppl"
+  },
+  {
+    "timestamp": "2026-03-12T18:04:54.461Z",
+    "type": "command",
+    "userId": "1302229096570552380",
+    "username": "nader_kanaan",
+    "commandName": "leaderboard",
+    "guildId": "1310958768191705150",
+    "guildName": "Pro Ppl"
+  },
+  {
+    "timestamp": "2026-03-12T18:05:36.751Z",
+    "type": "command",
+    "userId": "1302229096570552380",
+    "username": "nader_kanaan",
+    "commandName": "appeal",
+    "guildId": "1310958768191705150",
+    "guildName": "Pro Ppl"
+  },
+  {
+    "timestamp": "2026-03-12T18:08:36.397Z",
+    "type": "command",
+    "userId": "1302229096570552380",
+    "username": "nader_kanaan",
+    "commandName": "appeal",
+    "guildId": "1310958768191705150",
+    "guildName": "Pro Ppl"
+  }
+]
