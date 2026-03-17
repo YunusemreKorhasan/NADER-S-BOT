@@ -1,0 +1,47 @@
+{
+  "name": "cubecraft-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for CubeCraft Minecraft server statistics",
+  "main": "dist/index.js",
+  "engines": {
+    "node": "20.x"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx watch src/index.ts",
+    "postinstall": "npm run build"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "cubecraft",
+    "minecraft",
+    "statistics"
+  ],
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@notionhq/client": "^5.4.0",
+    "archiver": "^7.0.1",
+    "axios": "^1.13.2",
+    "canvas": "^3.2.1",
+    "discord.js": "^14.25.1",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0",
+    "node-cron": "^4.2.1",
+    "openai": "^6.9.1",
+    "puppeteer": "^24.39.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "devDependencies": {
+    "@types/archiver": "^7.0.0",
+    "@types/express": "^5.0.6",
+    "@types/express-session": "^1.18.2",
+    "@types/node": "^24.10.1",
+    "@types/node-cron": "^3.0.11",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}
